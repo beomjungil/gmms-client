@@ -1,0 +1,10 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint-react-recommended"],
+  "rules": {
+    "no-submodule-imports": false
+  },
+  "import/resolver": {
+    "babel-plugin-root-import": {}
+  }
+}

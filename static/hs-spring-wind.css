@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HS Spring Wind';
+    src: url('hs-spring-wind-2.0-gmms.eot');
+    src: url('hs-spring-wind-2.0-gmms.eot#iefix') format('embedded-opentype'),
+         url('hs-spring-wind-2.0-gmms.woff2') format('woff2'),
+         url('hs-spring-wind-2.0-gmms.woff') format('woff'),
+         url('hs-spring-wind-2.0-gmms.ttf') format('truetype'),
+         url('hs-spring-wind-2.0-gmms.svg#hsspringwind') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

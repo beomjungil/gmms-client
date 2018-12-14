@@ -1,0 +1,37 @@
+{
+  "name": "with-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "@rebass/grid": "^6.0.0-5",
+    "@zeit/next-typescript": "^1.1.1",
+    "fontfaceobserver": "^2.0.13",
+    "mobx": "^5.6.0",
+    "mobx-react": "^5.4.2",
+    "next": "^7.0.2",
+    "next-images": "^1.0.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.6",
+    "@types/next": "^7.0.1",
+    "@types/react": "^16.4.16",
+    "@types/react-dom": "16.0.8",
+    "@types/styled-components": "^4.1.2",
+    "babel-plugin-styled-components": "^1.9.2",
+    "tslint": "^5.11.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-react": "^3.6.0",
+    "tslint-react-recommended": "^1.0.15",
+    "typescript": "3.1.1"
+  },
+  "license": "ISC"
+}
